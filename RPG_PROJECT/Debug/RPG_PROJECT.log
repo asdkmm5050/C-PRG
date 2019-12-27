@@ -1,0 +1,4 @@
+﻿  map.cpp
+C:\Users\asdkm\Desktop\RPG_PROJECT\RPG_PROJECT\RPG_PROJECT\map.cpp(19,20): warning C4018: '<': signed/unsigned 不相符
+C:\Users\asdkm\Desktop\RPG_PROJECT\RPG_PROJECT\RPG_PROJECT\map.cpp(28): warning C4715: 'Map::map_load': 不是所有控制路徑都傳回值
+  RPG_PROJECT.vcxproj -> C:\Users\asdkm\Desktop\RPG_PROJECT\RPG_PROJECT\Debug\RPG_PROJECT.exe
