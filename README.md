@@ -1,3 +1,3 @@
 # C-PRG
 
-##  this is a Game like shit.
+##  this is a game like shit.
