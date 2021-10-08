@@ -1,3 +1,3 @@
 # C-PRG
 
-##  this is糞Game
+##  this is a Game like shit.
